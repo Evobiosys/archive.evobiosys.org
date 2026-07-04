@@ -1,0 +1,12 @@
+title: EvoBioSys Archive
+description: Archived snapshots of superseded EvoBioSys pages. For current versions, see evobiosys.org.
+url: "https://archive.evobiosys.org"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
